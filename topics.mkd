@@ -1,0 +1,30 @@
+---
+title: topics
+---
+
+Topics
+======
+
+Tooling
+-------
+
+  * CI
+    * travis.ci
+
+  * Ruby version handling
+    * rbenv
+    * rvm
+
+Architecture
+------------
+
+  * The SOLID pattern explained
+
+  * Sunk cost fallacy - no really, scrap it
+  * Refactoring is okay
+
+
+Workflow
+--------
+
+  * local development workflow
